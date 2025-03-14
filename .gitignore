@@ -1,0 +1,10 @@
+*.sql.bak
+*.sql~
+*.mwb
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
